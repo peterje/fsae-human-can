@@ -1,0 +1,12 @@
+BO_ 256 Elapsed_Time: 8 Vector__XXX
+ SG_ Time_Elapsed : 0|64@1- (1,0) [0|0] "" Vector__XXX
+
+BO_ 257 Brake_Pressure_Throttle: 8 Vector__XXX
+ SG_ BrakePressurePin1 : 0|16@1+ (1,0) [0|0] "psi" Vector__XXX
+ SG_ BrakePressurePin2 : 16|16@1+ (1,0) [0|0] "psi" Vector__XXX
+ SG_ ThrottlePin1 : 32|16@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Faults : 48|16@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 258 AppsADC: 8 Vector__XXX
+ SG_ AppsPin1 : 0|16@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ AppsPin2 : 16|16@1+ (1,0) [0|0] "" Vector__XXX
